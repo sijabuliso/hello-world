@@ -1,2 +1,4 @@
 # hello-world
-just a new reposit
+My name is sijabuliso mavuso 
+
+This change is due to an oder as am learning
